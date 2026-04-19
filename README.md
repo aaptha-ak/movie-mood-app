@@ -1,2 +1,2 @@
 # movie-mood-app
-Movie Mood App is a web-based application that recommends movies based on the user’s mood such as Happy, Sad, or Action. It provides movie posters, trailers, and allows users to save their favorite movies for later viewing.
+Movie Mood App is an interactive web application designed to enhance user experience by suggesting movies according to different moods like Happy, Sad, and Action. The application displays movie posters, provides direct access to trailers, and includes a favorites feature where users can save and manage their preferred movies. It is built using HTML, CSS, JavaScript, and PHP, ensuring a responsive and user-friendly interface
